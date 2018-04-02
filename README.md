@@ -8,3 +8,4 @@ https://www.youtube.com/watch?v=cLGDn5Z6v6w - Careercon 2013 - Jerzy Zientkowski
 https://www.youtube.com/watch?v=WcsCaIQDD-Y - Careercon 2013 - Jerzy Zientkowski - Dlaczego nie wysyłać CV? cz. 2<br>
 https://www.youtube.com/watch?v=FY1vz5b_aXE - Randy Pausch - Ostatni wykład: Jak skutecznie spełniać marzenia z dzieciństwa<br>
 https://www.youtube.com/watch?v=gwLvk47XTFA - Spotkanie IT 2014 - Tomasz Czarnecki - Wyceny prac w IT<br/>
+https://www.youtube.com/watch?v=7RVeDOh4xws - 7 dobrych praktyk promowania aplikacji mobilnych - Michał Sadowski - Mobile Trends Conference 2018<br/>
