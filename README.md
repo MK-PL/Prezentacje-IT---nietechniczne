@@ -12,3 +12,4 @@ https://www.youtube.com/watch?v=gwLvk47XTFA - Spotkanie IT 2014 - Tomasz Czarnec
 https://www.youtube.com/watch?v=B9aTrNBu0YE - Daj Się Poznać 2017 - Olga Stefaniuk - Kto pyta, nie błądzi – o rozmowach kwalifikacyjnych w branży IT<br/>
 https://www.youtube.com/watch?v=t1ZQCmD8vvY - 4Developers 2017 - Krzysztof Rakowski - Jak pisać. Poradnik rzemieślnika<br/>
 https://www.youtube.com/watch?v=ZIQNsSD-lXw - Boiling Frogs 2018 - Jakub Kociubiński - Czego programista może nauczyć się od poligloty?
+https://www.youtube.com/watch?v=Qr4uZrvIO90 - Trójmiasto JUG 2016 - Piotr Bucki - Stephen Hawking i muszka owocówka. Jak nauczyć się prezentować...
