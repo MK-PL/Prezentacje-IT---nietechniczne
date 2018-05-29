@@ -14,3 +14,4 @@ https://www.youtube.com/watch?v=t1ZQCmD8vvY - 4Developers 2017 - Krzysztof Rakow
 https://www.youtube.com/watch?v=ZIQNsSD-lXw - Boiling Frogs 2018 - Jakub Kociubiński - Czego programista może nauczyć się od poligloty?<br/>
 https://www.youtube.com/watch?v=Qr4uZrvIO90 - Trójmiasto JUG 2016 - Piotr Bucki - Stephen Hawking i muszka owocówka. Jak nauczyć się prezentować...<br/>
 https://www.youtube.com/watch?v=YBwBUxbNZpQ - Boiling Frogs 2018 - Michał Gruca - Być liderem, być liderem<br/>
+https://www.youtube.com/watch?v=2-f1z5uvZxQ - infoShare 2016 - Maciej Aniserowicz - GMD: Getting More Done<br/>
