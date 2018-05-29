@@ -2,7 +2,7 @@
 Umiejętności miękkie, komunikacja, zespół, rekrutacja, pisanie CV - po polsku
 
 https://www.youtube.com/watch?v=LPTz8ZfzIwQ - Boiling Frogs 2017 - Anna Konopka - Jak nie zmarnować 8h za biurkiem?<br>
-https://www.youtube.com/watch?v=sgi1XF_4SNc - 76 Spotkanie Wrocław JUG - Anita Przybył - Napraw swój Zespół<br>
+https://www.youtube.com/watch?v=sgi1XF_4SNc - 76 Spotkanie Wrocław JUG 2017 - Anita Przybył - Napraw swój Zespół<br>
 https://www.youtube.com/watch?v=qcsyB_470kw - Confitura 2016 - Tomasz Borek - Junior, szuka pracy, jak znaleźć tę dobrą<br>
 https://www.youtube.com/watch?v=cLGDn5Z6v6w - Careercon 2013 - Jerzy Zientkowski - Dlaczego nie wysyłać CV? cz. 1<br>
 https://www.youtube.com/watch?v=WcsCaIQDD-Y - Careercon 2013 - Jerzy Zientkowski - Dlaczego nie wysyłać CV? cz. 2<br>
@@ -15,3 +15,4 @@ https://www.youtube.com/watch?v=ZIQNsSD-lXw - Boiling Frogs 2018 - Jakub Kociubi
 https://www.youtube.com/watch?v=Qr4uZrvIO90 - Trójmiasto JUG 2016 - Piotr Bucki - Stephen Hawking i muszka owocówka. Jak nauczyć się prezentować...<br/>
 https://www.youtube.com/watch?v=YBwBUxbNZpQ - Boiling Frogs 2018 - Michał Gruca - Być liderem, być liderem<br/>
 https://www.youtube.com/watch?v=2-f1z5uvZxQ - infoShare 2016 - Maciej Aniserowicz - GMD: Getting More Done<br/>
+https://www.youtube.com/watch?v=Dt1GvTyRuic - WarsawJS Meetup #45 2018 - Piotr Kowalski - 5 zasad zakończenia współpracy<br/>
