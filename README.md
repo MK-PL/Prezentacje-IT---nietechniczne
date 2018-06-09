@@ -16,3 +16,4 @@ https://www.youtube.com/watch?v=Qr4uZrvIO90 - Trójmiasto JUG 2016 - Piotr Bucki
 https://www.youtube.com/watch?v=YBwBUxbNZpQ - Boiling Frogs 2018 - Michał Gruca - Być liderem, być liderem<br/>
 https://www.youtube.com/watch?v=2-f1z5uvZxQ - infoShare 2016 - Maciej Aniserowicz - GMD: Getting More Done<br/>
 https://www.youtube.com/watch?v=Dt1GvTyRuic - WarsawJS Meetup #45 2018 - Piotr Kowalski - 5 zasad zakończenia współpracy<br/>
+https://www.youtube.com/watch?v=mbWiiwqlw04 - Webinar WSB 2017 - Piotr Bucki - Jak skutecznie szlifować kompetencje <br/>
