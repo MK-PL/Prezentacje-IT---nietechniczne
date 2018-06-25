@@ -18,3 +18,4 @@ https://www.youtube.com/watch?v=2-f1z5uvZxQ - infoShare 2016 - Maciej Aniserowic
 https://www.youtube.com/watch?v=Dt1GvTyRuic - WarsawJS Meetup #45 2018 - Piotr Kowalski - 5 zasad zakończenia współpracy<br/>
 https://www.youtube.com/watch?v=mbWiiwqlw04 - Webinar WSB 2017 - Piotr Bucki - Jak skutecznie szlifować kompetencje <br/>
 https://www.youtube.com/watch?v=CrzsMgUC2IE - 4Developers 2018 - Agnieszka Biernacka - Warsztat dla liderów technicznych <br/>
+https://www.youtube.com/watch?v=Q8bD1FNCkvA - 106. spotkanie Wroc.NET 2018 - Paweł Klimczyk - 7 osobowości inżyniera oprogramowania <br/>
